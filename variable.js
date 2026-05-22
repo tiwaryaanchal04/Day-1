@@ -4,3 +4,5 @@ console.log (name,dob)
  
 name ="MOHIT"
 console.log(name)
+
+console.log(dob)
